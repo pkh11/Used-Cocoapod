@@ -10,6 +10,6 @@
 8. [Fabric]
 9. [Crashlytics]
 10. [SideMenu](https://github.com/jonkykong/SideMenu)
-11. [TagListView] (https://github.com/ElaWorkshop/TagListView)
+11. [TagListView](https://github.com/ElaWorkshop/TagListView)
 
 
